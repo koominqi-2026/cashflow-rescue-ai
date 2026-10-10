@@ -1,6 +1,6 @@
 # Cashflow Rescue AI
 
-Smart restocking & cashflow decision tool for small bakeries.
+Smart restocking & cashflow decision tool for small businesses.
 
 **Live demo**: https://9fc8c8cbcaea4902be8013a2a33526c4.sg.agentos-app.run/
 
@@ -48,4 +48,4 @@ Open `index.html` in any modern browser. No installation or build required.
 
 ## Built for
 
-Dormathon 2025 — Track 2: WorkBuddy / Agentic Solutions
+Dormathon 2026 — Track 2: WorkBuddy / Agentic Solutions
