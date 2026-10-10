@@ -1,6 +1,6 @@
 # Cashflow Rescue AI
 
-Smart restocking & cashflow decision tool for small businesses.
+Smart restocking & cashflow decision tool for students who are involved in small businesses.
 
 **Live demo**: https://9fc8c8cbcaea4902be8013a2a33526c4.sg.agentos-app.run/
 
