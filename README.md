@@ -6,7 +6,7 @@ Smart restocking & cashflow decision tool for students who are involved in small
 
 ## What it does
 
-Cashflow Rescue AI helps small bakery owners answer one question every morning:
+Cashflow Rescue AI helps small business owners answer one question every morning:
 **"What should I buy today without breaking my cash safety net?"**
 
 The user types a plain-language prompt describing their cash, bills, sales and stock.
