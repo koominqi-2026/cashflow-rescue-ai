@@ -4,6 +4,7 @@ Smart restocking & cashflow decision tool for students who are involved in small
 
 **Live demo**: https://9fc8c8cbcaea4902be8013a2a33526c4.sg.agentos-app.run/
 **Recorded demo**: https://vt.tiktok.com/ZSbvauaWk/
+**Canva**: https://drive.google.com/file/d/1ANuXhWSPO0pxznIWoQ7I8qyWKHxfKyPV/view?usp=drive_link
 
 ## What it does
 
